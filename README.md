@@ -1,0 +1,2 @@
+# Uzcoin
+Uzcoin
